@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/musekorea/React-coin-converterpages/static/js/main.c1b7d56b.chunk.js",
+    "main.js.map": "/musekorea/React-coin-converterpages/static/js/main.c1b7d56b.chunk.js.map",
+    "runtime-main.js": "/musekorea/React-coin-converterpages/static/js/runtime-main.45978749.js",
+    "runtime-main.js.map": "/musekorea/React-coin-converterpages/static/js/runtime-main.45978749.js.map",
+    "static/js/2.012ae700.chunk.js": "/musekorea/React-coin-converterpages/static/js/2.012ae700.chunk.js",
+    "static/js/2.012ae700.chunk.js.map": "/musekorea/React-coin-converterpages/static/js/2.012ae700.chunk.js.map",
+    "index.html": "/musekorea/React-coin-converterpages/index.html",
+    "static/js/2.012ae700.chunk.js.LICENSE.txt": "/musekorea/React-coin-converterpages/static/js/2.012ae700.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45978749.js",
+    "static/js/2.012ae700.chunk.js",
+    "static/js/main.c1b7d56b.chunk.js"
+  ]
+}
